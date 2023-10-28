@@ -8,13 +8,20 @@
   - フレームワーク：SpringBoot (SpringBoot 3.3 + MyBatis)
 - データベース
   - mySQL (mySQL 8.0)
-- モバイル 
+- モバイル (個人開発)
   - 言語: Dart 2.19.6
   - フレームワーク：Flutter 3.7.12
 
 
 # MyBlog
 - [新人エンジニアのつぶやき](https://p238049y.hatenablog.com/)
+
+# MyApp
+- [Beer Collection](https://play.google.com/store/apps/details?id=io.github.p2388049y.beer_collection&pli=1)
+ - ビールを記録するためのアプリ
+ - ビール記録の際にカロリーを入力すると、そのカロリーを消費するために必要な運動時間が表示される
+ - ビールの記録をしながら、健康管理するアプリを目指している
+ - [Repository](https://github.com/p238049y/beer-collection-app)
 
 # MyActivity
 <!--
