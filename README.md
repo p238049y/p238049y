@@ -1,13 +1,13 @@
 # 技術スタック
-- フロントエンド
+- フロントエンド (業務開発)
   - 言語：TypeScript
   - フレームワーク：Vue.js (Vue3.3 + Vuetify3.3 + Vite4.4 + Pinia2.1)
     - 過去にはVue2.6 or 2.7に触れた
-- バックエンド
+- バックエンド (業務開発)
   - 言語：Java (Java 17)
   - フレームワーク：SpringBoot (SpringBoot 3.3 + MyBatis)
-- データベース
-  - mySQL (mySQL 8.0)
+- データベース (業務開発)
+  - mySQL (mySQL 5.7 8.0)
 - モバイル (個人開発)
   - 言語: Dart 2.19.6
   - フレームワーク：Flutter 3.7.12
