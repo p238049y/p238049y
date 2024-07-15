@@ -7,7 +7,7 @@
   - 言語：Java (Java 17)
   - フレームワーク：SpringBoot (SpringBoot 3.3 + MyBatis)
 - データベース (業務開発)
-  - mySQL (mySQL 5.7 8.0)
+  - MySQL (MySQL 5.7 8.0)
 - モバイル (個人開発)
   - 言語: Dart 3.3.3
   - フレームワーク：Flutter 3.19.5
