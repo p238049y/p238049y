@@ -1,7 +1,7 @@
 # 技術スタック
 - フロントエンド (業務開発)
   - 言語：TypeScript
-  - フレームワーク：Vue.js (Vue3.3 + Vuetify3.3 + Vite4.4 + Pinia2.1)
+  - フレームワーク：Vue.js (Vue3.4 + Vuetify3.3 + Vite4.4 + Pinia2.1)
     - 過去にはVue2.6 or 2.7に触れた
 - バックエンド (業務開発)
   - 言語：Java (Java 17)
